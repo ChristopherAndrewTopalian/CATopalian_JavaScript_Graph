@@ -3,6 +3,8 @@ A JavaScript application that generates a graph based on array data.
 
 USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Graph/CATopalian_JavaScript_Graph.html
 
+![screenshot_001](src/media/textures/screenshots/001.PNG)  
+
 If you enjoy my apps and tutorials please consider buying me a coffee at [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch)  
 
 ---
